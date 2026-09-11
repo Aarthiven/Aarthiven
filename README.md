@@ -113,7 +113,7 @@ IoT-based ATM security system with real-time alerts, GPS tracking, camera monito
 
 <p align="center">
   <a href="https://leetcode.com/u/Sivaaarthivenkat/">
-    <img src="https://leetcard.jacoblin.cool/Sivaaarthivenkat?theme=dark&font=Fira+Code&ext=activity&hide=ranking,easy,medium,hard" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Sivaaarthivenkat?theme=dark&font=Fira+Code&hide=ranking,easy,medium,hard" alt="LeetCode Stats" />
   </a>
 </p>
 
