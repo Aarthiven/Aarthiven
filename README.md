@@ -100,14 +100,6 @@ IoT-based ATM security system with real-time alerts, GPS tracking, camera monito
 
 ---
 
-## 📜 Certifications
-
-- 🗄️ **CodeChef DBMS Certification** — CodeChef — 2025
-- ☕ **Oracle Java Programming Badge** — Oracle — 2025
-- 🧠 **Mastering Data Structures and Algorithms** — Udemy — 2025
-
----
-
 ## 🏆 Achievements
 
 🏅 **Rank Holder** — Semester-End Examinations, 1st & 2nd Year  
